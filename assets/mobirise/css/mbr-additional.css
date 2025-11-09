@@ -2269,7 +2269,7 @@ a {
 .cid-v24qnt089q .item-wrapper {
   height: 100%;
   position: relative;
-  pointer-events: none;
+  /*pointer-events: none;*/
 }
 .cid-v24qnt089q .item-wrapper img {
   height: 100%;
